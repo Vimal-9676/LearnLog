@@ -21,12 +21,6 @@ Behavioral analytics
 
 Lessons with high drop-off rates indicate poor engagement. Improving these lessons can increase course completion, user satisfaction, and platform revenue.
 
-▶️ How to Run
- bash
-
-pip install -r requirements.txt
-streamlit run app.py
-
 ## 📷 Dashboard Preview
 
 ![Dashboard](Screenshot1.png)
@@ -35,4 +29,10 @@ streamlit run app.py
 
 ## 📷 Tableau Preview
 
-1[Graph](Screenshot4.png)
+![Graph](Screenshot4.png)
+
+▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
