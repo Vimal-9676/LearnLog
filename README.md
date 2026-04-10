@@ -29,10 +29,10 @@ streamlit run app.py
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot 2026-04-11 at 3.41.27 AM.png)
-![Chart](Screenshot 2026-04-11 at 3.41.36 AM.png)
-![Insight](Screenshot 2026-04-11 at 3.41.44 AM.png)
+![Dashboard](Screenshot1.png)
+![Chart](Screenshot2.png)
+![Insight](Screenshot3.png)
 
 ## 📷 Tableau Preview
 
-1[Graph](Screenshot 2026-04-11 at 4.48.44 AM.png)
+1[Graph](Screenshot4.png)
