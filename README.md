@@ -1,37 +1,81 @@
-🚀 LearnLog: EdTech Engagement Tracker
-📌 Overview
+#  LearnLog: EdTech Engagement Tracker
 
-LearnLog is a data analytics project that tracks user engagement on an EdTech platform and identifies lessons where students drop off early.
+<div align="center">
 
-🛠️ Tech Stack
-MySQL (Database)
-Python (Data Generation)
-SQL (CTEs, Aggregations)
-Streamlit (Dashboard)
-🔥 Key Features
-Tracks user behavior (play, pause, complete)
-Identifies hardest lessons using SQL
-Interactive dashboard with drop-off visualization
-Insight generation for business decisions
-📊 Key SQL Concept Used
-Common Table Expressions (CTEs)
-Aggregation & CASE statements
-Behavioral analytics
-💡 Business Insight
+### Data Analytics Project for User Engagement & Drop-off Analysis
 
-Lessons with high drop-off rates indicate poor engagement. Improving these lessons can increase course completion, user satisfaction, and platform revenue.
+</div>
+
+---
+
+## 📌 Overview
+
+**LearnLog** is a data analytics project that tracks user engagement on an EdTech platform and identifies lessons where students drop off early.
+
+It helps understand **learning behavior patterns** and highlights weak content areas that need improvement.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🗄️ MySQL (Database)
+- 🐍 Python (Data Generation & Processing)
+- 🧠 SQL (CTEs, Aggregations, CASE Statements)
+- 📊 Streamlit (Interactive Dashboard)
+
+---
+
+## 🔥 Key Features
+
+- 🎯 Tracks user actions (play, pause, complete)
+- 📉 Identifies lessons with high drop-off rates
+- 🧠 Detects hardest lessons using SQL analysis
+- 📊 Interactive Streamlit dashboard
+- 💡 Generates business insights from user behavior
+
+---
+
+## 📊 Key SQL Concepts Used
+
+- Common Table Expressions (CTEs)
+- Aggregations (COUNT, AVG, etc.)
+- CASE statements for categorization
+- Behavioral analytics queries
+
+---
+
+## 💡 Business Insight
+
+Lessons with high drop-off rates indicate weak engagement or difficulty in content delivery.
+
+Improving these lessons can:
+- 📈 Increase course completion rate  
+- 😊 Improve user satisfaction  
+- 💰 Boost platform revenue  
+
+---
 
 ## 📷 Dashboard Preview
 
 ![Dashboard](Screenshot1.png)
+
+## Charts Preview
+
 ![Chart](Screenshot2.png)
+
+## Insights
+
 ![Insight](Screenshot3.png)
 
-## 📷 Tableau Preview
+---
+
+## 📊 Tableau Visualization Preview
 
 ![Graph](Screenshot4.png)
 
-▶️ How to Run
+---
+
+## ▶️ How to Run
 
 ```bash
 pip install -r requirements.txt
