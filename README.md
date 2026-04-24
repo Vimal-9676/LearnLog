@@ -1,6 +1,4 @@
-<div align="center">
-  
-#  LearnLog: EdTech Engagement Tracker
+<div align="center"> #  LearnLog: EdTech Engagement Tracker
 
 <div align="center">
 
