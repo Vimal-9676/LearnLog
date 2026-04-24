@@ -1,3 +1,5 @@
+<div align="center">
+  
 #  LearnLog: EdTech Engagement Tracker
 
 <div align="center">
@@ -8,10 +10,9 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **LearnLog** is a data analytics project that tracks user engagement on an EdTech platform and identifies lessons where students drop off early.
-
 It helps understand **learning behavior patterns** and highlights weak content areas that need improvement.
 
 ---
@@ -25,7 +26,7 @@ It helps understand **learning behavior patterns** and highlights weak content a
 
 ---
 
-## 🔥 Key Features
+## Key Features
 
 - 🎯 Tracks user actions (play, pause, complete)
 - 📉 Identifies lessons with high drop-off rates
@@ -35,7 +36,7 @@ It helps understand **learning behavior patterns** and highlights weak content a
 
 ---
 
-## 📊 Key SQL Concepts Used
+## Key SQL Concepts Used
 
 - Common Table Expressions (CTEs)
 - Aggregations (COUNT, AVG, etc.)
